@@ -5,7 +5,7 @@
     (no_connects 0)
     (area 0 0 0 0)
     (thickness 1.6)
-    (drawings 20)
+    (drawings 21)
     (tracks 39)
     (zones 0)
     (modules 3)
@@ -13,6 +13,13 @@
   )
 
   (page USLetter)
+  (title_block
+    (title "RJ45 Magjack Breakout")
+    (date 2018-04-24)
+    (rev 1.0)
+    (company "Patrick Pelletier")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
@@ -300,6 +307,9 @@
     )
   )
 
+  (gr_text "RJ45\nMagjack\nBreakout\n2018-04-24\nPatrick\nPelletier" (at 138.43 83.82) (layer B.SilkS)
+    (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
+  )
   (gr_text Y_K (at 142.875 90.17) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)) (justify right))
   )
@@ -324,7 +334,7 @@
   (gr_text G_A (at 133.985 87.63) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)) (justify left))
   )
-  (gr_text SH (at 133.985 85.09) (layer F.SilkS)
+  (gr_text SHLD (at 133.985 85.09) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)) (justify left))
   )
   (gr_text TD- (at 133.985 82.55) (layer F.SilkS)
