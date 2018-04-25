@@ -29,15 +29,16 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:myLibrary
+LIBS:RJ45-cache
 EELAYER 25 0
 EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "RJ45 Magjack Breakout"
+Date "2018-04-24"
+Rev "1.0"
+Comp "Patrick Pelletier"
 Comment1 ""
 Comment2 ""
 Comment3 ""
