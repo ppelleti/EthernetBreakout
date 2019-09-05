@@ -5,7 +5,9 @@ a breadboard.  For example usage, see
 
 ![Breakout board on a breadboard](RJ45.jpg)
 
-* [Schematic](RJ45.pdf)
+* [View schematic](RJ45.pdf)
+* [View PCB](https://eyrie.io/board/d35531e8b100497399c27f16be3ca795)
+* [Order board from OSH Park](https://oshpark.com/shared_projects/zE8d2y9D)
 
 ## Bill of Materials
 
