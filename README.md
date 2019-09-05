@@ -12,7 +12,7 @@ a breadboard.  For example usage, see
 ## Bill of Materials
 
 * [Amphenol RJMG1BD3B8K1ANR MagJack](https://www.digikey.com/product-detail/en/amphenol-commercial-products/RJMG1BD3B8K1ANR/RJMG1BD3B8K1ANR-ND/5359794)
-* 2 strips of male header, 8 pins each
+* 2 strips of male header, 6 pins each
 
 ## Pins
 
