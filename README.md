@@ -1,6 +1,7 @@
 This repository contains KiCad 4.x files for a small breakout board
 which allows an Ethernet jack (with built-in magnetics) to be used on
-a breadboard.
+a breadboard.  For example usage, see
+[this blog post](https://funwithsoftware.org/posts/2019-09-04-breadboard-ethernet-part1.html).
 
 ![Breakout board on a breadboard](RJ45.jpg)
 
